@@ -6,4 +6,4 @@ Used Tokinizer : okt, Khaiii
 # Notice
 if you want to know an outline, 
 
-Click 'NLP_analysis kospi stock report(Part1)' & 'NLP_analysis kospi stock report(Part2)'
+Click   'NLP_analysis kospi stock report(Part1)' & 'NLP_analysis kospi stock report(Part2)'
