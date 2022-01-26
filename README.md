@@ -4,4 +4,6 @@ This repository contains the project which predicts Stock Recommendation, 6 Mont
 Used Tokinizer : okt, Khaiii
 
 # Notice
-if you want to know an outline, Click 'NLP_analysis kospi stock report(Part1)' & 'NLP_analysis kospi stock report(Part2)'
+if you want to know an outline, 
+
+Click 'NLP_analysis kospi stock report(Part1)' & 'NLP_analysis kospi stock report(Part2)'
